@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/bgr_camera.xml" value="0.1" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/bgr_dong_dsbh.xml" value="0.22552083333333334" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/bgr_playlist.xml" value="0.20046296296296295" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/bgr_playnhac.xml" value="0.20046296296296295" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/btn_facebook.xml" value="0.22552083333333334" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/drawable/edt_all.xml" value="0.20046296296296295" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout-v24/activity_play_nhac.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout-v24/dialog_update_profile.xml" value="0.22" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/activity_dang_nhap.xml" value="0.22" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/activity_dangky.xml" value="0.17" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.18" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/activity_home.xml" value="0.15" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/activity_play_nhac.xml" value="0.14" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/bgr_dongdsbh.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dialog_dang_ky_free.xml" value="0.14" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dialog_forget_password.xml" value="0.1358108108108108" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dialog_insert_thuvien_playlist.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dong_nghesi.xml" value="0.25" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/dong_playlist.xml" value="0.25" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_dialog_quen_mk.xml" value="0.14" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_dianhac.xml" value="0.18356164383561643" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_doi_matkhau.xml" value="0.1358108108108108" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_nghesi.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_playlist.xml" value="0.18356164383561643" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_thu_vien.xml" value="0.25" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_thuvien_nghesi.xml" value="0.209375" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.13094462540716612" />
+        <entry key="..\:/Data _Android studio/BTL_Music4B/app/src/main/res/layout/fragment_trang_chu.xml" value="0.18356164383561643" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_camera.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_home.xml" value="0.1695" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_maintab.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_playlist.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_playnhac.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_pllist.xml" value="0.1695" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgr_timkiem.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/bgrappbar.xml" value="0.1695" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/btn_dang_xuat.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/custom_back_ground_playnhac.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/custom_backgroud.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/custom_background.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/custom_background_nguoc.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/ic_camera_alt_24.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1335" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/ic_sharp_update_24.xml" value="0.1695" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/drawable/shape_bgr_button.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/font/aclonica.xml" value="0.19739583333333333" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/font/aguafina_script.xml" value="0.19739583333333333" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/font/molengo.xml" value="0.19739583333333333" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_dang_nhap.xml" value="0.2" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_dangky.xml" value="0.2" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_home.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_insert_nhac_thu_vien.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_insert_thu_vien_play_list.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_main.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/activity_play_nhac.xml" value="0.176" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/bgr_homee.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/custom_progressbar.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/customdialog.xml" value="0.2" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dialog_dang_ky_free.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dialog_forget_password.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dialog_insert_thuvien_playlist.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dialog_update_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_bangxephang.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_chude.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_nghesi.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_phobien.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_playlist.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_thinhhanh.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_thuvien_nghesi.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_thuvien_playlist.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_tim_kiem.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_tim_kiem_nhac_thuvien.xml" value="0.6" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/dong_yeuthich.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_bangxephang.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_chude.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_dialog_quen_mk.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_dianhac.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_doi_matkhau.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_insert_nhac_thu_vien.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_nghesi.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_phobien.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_playlist.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_profile.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_thu_vien.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_thuvien_nghesi.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_thuvien_playlist.xml" value="0.171875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.125390625" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/fragment_trang_chu.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/layout/layout_notification.xml" value="0.25416666666666665" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/menu/menu_add_thu_vien.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/menu/menu_timkiem.xml" value="0.1671875" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1695" />
+        <entry key="..\:/fileProjectAndroiStudio/MyMusicccccccccccc/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1755" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/btn_dang_xuat.xml" value="0.1" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/btn_facebook.xml" value="0.1" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/custom_back_ground_playnhac.xml" value="0.176" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/custom_backgroud.xml" value="0.114" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/custom_background.xml" value="0.126" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/drawable/custom_background_nguoc.xml" value="0.145" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_dang_nhap.xml" value="0.15185185185185185" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_dangky.xml" value="0.15185185185185185" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_danhsachbaihat.xml" value="0.2" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_home.xml" value="0.15185185185185185" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_insert_nhac_thu_vien.xml" value="0.11302083333333333" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_insert_thu_vien_play_list.xml" value="0.11302083333333333" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_main.xml" value="0.15185185185185185" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/activity_play_nhac.xml" value="0.1859375" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/custom_progressbar.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/customdialog.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dialog_dang_ky_free.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dialog_forget_password.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dialog_insert_thuvien_playlist.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dialog_update_profile.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_bangxephang.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_chude.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_danh_sach_bai_hat.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_nghesi.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_phobien.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_playlist.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_thinhhanh.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_thuvien_nghesi.xml" value="0.264" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_thuvien_playlist.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_tim_kiem.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_tim_kiem_nhac_thuvien.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/dong_yeuthich.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_bangxephang.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_chude.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_dialog_quen_mk.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_dianhac.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_doi_matkhau.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_insert_nhac_thu_vien.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_nghesi.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_phobien.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_playlist.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_profile.xml" value="0.19322916666666667" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_thinhhanh.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_thu_vien.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_thuvien_nghesi.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_thuvien_playlist.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_thuvien_yeuthich.xml" value="0.20052083333333334" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_tim_kiem.xml" value="0.264" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/fragment_trang_chu.xml" value="0.15185185185185185" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/layout/layout_notification.xml" value="0.2" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/menu/menu_add_thu_vien.xml" value="0.19322916666666667" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/menu/menu_timkiem.xml" value="0.19322916666666667" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1555" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.123" />
+        <entry key="..\:/fileProjectAndroiStudio/music4b-master/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.xml" value="0.1385" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

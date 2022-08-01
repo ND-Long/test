@@ -1,0 +1,102 @@
+/* Resset css */
+*{
+  /* Emmet */
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: rgb(113, 110, 110);
+}
+
+html{
+font-family: Arial, Helvetica, sans-serif;
+}
+
+/*
+1. Từ ngoài vào trong
+2. Từ trên xuống dưới
+3. Tổng quan đến chi tiết
+*/
+
+
+/* 
+1. Vị trí
+2. Kích thước (wight, height)
+3. Màu sắc
+4. Kiểu dáng (kiểu chữ, hình tròn, vuông)
+*/
+
+#main {
+
+}
+
+#header {
+height: 50.992px;
+background-color: black;
+}
+
+#nav .subnav{
+  position: absolute;
+  background-color: #fff;
+  
+}
+
+#nav .subnav a{
+  color: #000;
+  padding: 0 16px;
+  list-style: 22px;
+}
+
+#nav, .subnav{
+  list-style-type: none;
+}
+
+
+#nav .subnav li:hover a,
+#nav >li:hover> a{
+  background-color: #ccc;
+    color: #000;
+  }
+  
+
+#nav li{
+  
+  position: relative;
+  
+}
+
+#nav >li{
+  display: inline-block;
+}
+
+
+#nav > li>a {
+  color: #fff;
+  text-transform: uppercase;
+}
+
+
+#nav li a{
+  
+  padding: 0px 24px 0px 24px;
+  display: block;
+  text-decoration: none;
+  line-height: 50.992px;
+  
+}
+
+
+
+#slider {
+
+}
+
+#content {
+
+}
+
+#footer {
+
+}
